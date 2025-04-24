@@ -20,7 +20,7 @@ namespace Tactile.Animations
                 yield return null;
             }
 
-            animation(1f);
+            animation(curve(1f));
         }
         
         public static IEnumerator LerpCoroutine<T>(float time, Func<float, float> curve,
