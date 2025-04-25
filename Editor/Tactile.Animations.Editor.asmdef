@@ -1,6 +1,6 @@
 {
     "name": "Tactile.Animations.Editor",
-    "rootNamespace": "",
+    "rootNamespace": "Tactile.Animations",
     "references": [
         "GUID:125be4d879b0d6a49b14e80b02aa7719",
         "GUID:c30243379fb0c4cc39b4524bf3c3d271",

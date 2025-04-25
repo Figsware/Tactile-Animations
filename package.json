@@ -1,6 +1,6 @@
 {
   "name": "com.figsware.tactile.animations",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "displayName": "Tactile Animations",
   "description": "Animation functions and utilities",
   "unity": "2019.1",

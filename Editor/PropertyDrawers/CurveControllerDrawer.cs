@@ -1,12 +1,11 @@
-using Tactile.Animations;
-using Tactile.Core.Extensions;
-using Tactile.Core.Utility;
 using Tactile.Core.Editor.Utility;
 using Tactile.Core.Editor.Utility.PropertyShelves;
+using Tactile.Core.Extensions;
+using Tactile.Core.Utility;
 using UnityEditor;
 using UnityEngine;
 
-namespace Editor.PropertyDrawers
+namespace Tactile.Animations.Editor.PropertyDrawers
 {
     [CustomPropertyDrawer(typeof(CurveController))]
     public class CurveControllerDrawer : ShelfPropertyDrawer
