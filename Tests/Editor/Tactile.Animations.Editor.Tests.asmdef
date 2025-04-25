@@ -1,0 +1,20 @@
+{
+    "name": "Tactile.Animations.Editor.Tests",
+    "rootNamespace": "Tactile.Animations",
+    "references": [
+        "GUID:125be4d879b0d6a49b14e80b02aa7719",
+        "GUID:c30243379fb0c4cc39b4524bf3c3d271",
+        "GUID:9b295871b8b30084981f4e6e9f838dc8"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
